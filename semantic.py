@@ -47,7 +47,7 @@ print()
 ##### EXAMPLE 3 #####
 
 # Initialise sentence to compare
-sentence_to_compare = "Why is mmy cat on the car"
+sentence_to_compare = "Why is my cat on the car"
 
 # Initialise list of sentences
 sentences = [
